@@ -36,6 +36,10 @@ body {
   flex-wrap: nowrap;
 }
 
+.column-container ul {
+  min-width: 5px;
+}
+
 /* COLUMN */
 
 .column {

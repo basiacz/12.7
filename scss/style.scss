@@ -31,6 +31,9 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
+  ul {
+    min-width: 5px;
+  }
 }
 
 /* COLUMN */
